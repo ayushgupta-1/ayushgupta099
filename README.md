@@ -1,4 +1,4 @@
-  - 👋 Hello folks , I am Ayush Gupta from India.
+  - 👋 Hello folks , I am Ayush Gupta
 
   - Currently growing my knowledge in Flutter application development.
     Started with android development (JAVA) which struck me first in my journey.
