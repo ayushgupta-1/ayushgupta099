@@ -9,6 +9,6 @@
 
   - If anyone want to collaborate on any project/ideas, find me on:
 
-    Email: ayushgupta099@outlook.com
+    Email: ayushfundaa99@gmail.com
     
     LinkedIn: https://www.linkedin.com/in/ayush-gupta-099
